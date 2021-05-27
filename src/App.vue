@@ -1,0 +1,18 @@
+<template>
+  <button class="btn">button</button>
+
+  <div class="dropdown">
+    <div tabindex="0" class="m-1 btn">Dropdown</div>
+    <ul class="shadow menu dropdown-content bg-base-100 rounded-box w-52">
+      <li>
+        <a>Item 1</a>
+      </li>
+      <li>
+        <a>Item 2</a>
+      </li>
+      <li>
+        <a>Item 3</a>
+      </li>
+    </ul>
+  </div>
+</template>
