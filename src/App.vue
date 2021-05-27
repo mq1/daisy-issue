@@ -1,5 +1,5 @@
 <template>
-  <button class="btn">button</button>
+  <button class="btn btn-primary">button</button>
 
   <div class="dropdown">
     <div tabindex="0" class="m-1 btn">Dropdown</div>
